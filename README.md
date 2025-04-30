@@ -6,7 +6,7 @@ Bu proje, **Zingat.com** sitesinden İstanbul'daki konut kiraları verisini **we
 
 ## Web Uygulaması
 
-🌐 **[Streamlit Web Uygulaması](rental-price-prediction-in-istanbul.streamlit.app)**
+🌐 **[Streamlit Web Uygulaması](https://rental-price-prediction-in-istanbul.streamlit.app)**
 
 Projemiz, kullanıcı dostu bir web arayüzü ile birlikte gelir. Bu uygulama şunları sunar:
 
@@ -113,7 +113,7 @@ This project aims to collect rental price data of apartments in Istanbul from th
 
 ## Web Application
 
-🌐 **[Streamlit Web Application](rental-price-prediction-in-istanbul.streamlit.app)**
+🌐 **[Streamlit Web Application](https://rental-price-prediction-in-istanbul.streamlit.app)**
 
 Our project comes with a user-friendly web interface that offers:
 
